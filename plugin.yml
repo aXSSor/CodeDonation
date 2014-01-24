@@ -1,0 +1,16 @@
+name: Code
+author: aXSSor
+website: www.rajagame.com
+version: 1.1
+main: io.github.aXSSor.Main
+permissions:
+   code.admin:
+      description: Admin command
+commands:
+   code:
+      description: Administration
+      usage: /<command>
+   redeem:
+      description: Use a VIP-Code
+      usage: /<command> <code>
+      
